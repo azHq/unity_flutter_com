@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B64691E4-BF4F-D156-A912-28D4B0CF91A6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FlutterUnityIntegration/Editor/Build.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FootBallController.cs" Line="1" Column="1" />
+      <File FileName="Assets/FlutterUnityIntegration/Editor/Build.cs" Line="26" Column="42" />
+      <File FileName="Assets/FlutterUnityIntegration/NativeAPI.cs" />
+      <File FileName="Assets/Scripts/ObstacleMovingController.cs" />
+      <File FileName="Assets/Scripts/MyGameManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityApp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FlutterUnityIntegration" expanded="True">
+                <Node name="Editor" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="FootBallController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ac1d5b6a-ff1c-46cf-a428-da3de1fc6192" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
